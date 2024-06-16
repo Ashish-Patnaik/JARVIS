@@ -1,2 +1,2 @@
-# JARVIS
-Jarvis is a Text to Speech(TTS) based program developed in Python
+# ROBOSPEAKER
+RoboSpeaker is a Text to Speech(TTS) based program developed in Python
